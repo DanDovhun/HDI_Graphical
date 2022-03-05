@@ -19,11 +19,14 @@ func popup(app fyne.App, message string) {
 func main() {
 	myApp := app.New()
 	homeWindow := myApp.NewWindow("Human Development Index")
+	homeWindow.SetMaster()
 	countriesWindow := myApp.NewWindow("Countries")
 
 	content := container.NewVBox(
 		widget.NewButton("Continents", func() {
+			homeWindow.Hide()
 			continentWindow := myApp.NewWindow("Continents")
+			continentWindow.SetMaster()
 
 			output := "Continents:\n"
 
@@ -48,10 +51,13 @@ func main() {
 
 		widget.NewButton("Countries", func() {
 			homeWindow.Hide()
+			countriesWindow.SetMaster()
+
 			countriesWindow.Show()
 		}),
 	)
 
+	homeWindow.Resize(fyne.NewSize(400, 80))
 	homeWindow.SetContent(content)
 	homeWindow.ShowAndRun()
 }
