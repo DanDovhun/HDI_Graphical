@@ -24,3 +24,9 @@ type JSON struct {
 	Continent []Continent `json:"continents"`
 	Country   []Country   `json:"countries"`
 }
+
+type Quartiles struct {
+	first  float64
+	second float64
+	third  float64
+}
