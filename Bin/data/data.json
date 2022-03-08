@@ -1,0 +1,976 @@
+{
+    "continents": [
+        {
+            "coninent": "Global",
+            "countries": 186,
+            "average_hdi": 0.72
+        },
+        {
+            "coninent": "Africa",
+            "countries": 53,
+            "average_hdi": 0.562
+        },
+        {
+            "coninent": "Asia",
+            "countries": 42,
+            "average_hdi": 0.721
+        },
+        {
+            "coninent": "Central America",
+            "countries": 19,
+            "average_hdi": 0.749
+        },
+        {
+            "coninent": "Europe",
+            "countries": 45,
+            "average_hdi": 0.873
+        },
+        {
+            "coninent": "North America",
+            "countries": 3,
+            "average_hdi": 0.809
+        },
+        {
+            "coninent": "Oceania",
+            "countries": 12,
+            "average_hdi": 0.714
+        },
+        {
+            "coninent": "South America",
+            "countries": 12,
+            "average_hdi": 0.772
+        }
+    ],
+    "countries": [
+        {
+            "country": "Afghanistan",
+            "continent": "Asia",
+            "hdi": 0.511
+        },
+        {
+            "country": "Albania",
+            "continent": "Europe",
+            "hdi": 0.795
+        },
+        {
+            "country": "Algeria",
+            "continent": "Africa",
+            "hdi": 0.748
+        },
+        {
+            "country": "Andorra",
+            "continent": "Europe",
+            "hdi": 0.868
+        },
+        {
+            "country": "Angola",
+            "continent": "Africa",
+            "hdi": 0.581
+        },
+        {
+            "country": "Antigua and Barbuda",
+            "continent": "Central America",
+            "hdi": 0.778
+        },
+        {
+            "country": "Argentina",
+            "continent": "South America",
+            "hdi": 0.845
+        },
+        {
+            "country": "Armenia",
+            "continent": "Europe",
+            "hdi": 0.776
+        },
+        {
+            "country": "Australia",
+            "continent": "Oceania",
+            "hdi": 0.944
+        },
+        {
+            "country": "Austria",
+            "continent": "Europe",
+            "hdi": 0.922
+        },
+        {
+            "country": "Azerbaijan",
+            "continent": "Europe",
+            "hdi": 0.756
+        },
+        {
+            "country": "Bahamas",
+            "continent": "Central America",
+            "hdi": 0.814
+        },
+        {
+            "country": "Bahrain",
+            "continent": "Asia",
+            "hdi": 0.852
+        },
+        {
+            "country": "Bangladesh",
+            "continent": "Asia",
+            "hdi": 0.632
+        },
+        {
+            "country": "Barbados",
+            "continent": "Central America",
+            "hdi": 0.814
+        },
+        {
+            "country": "Belarus",
+            "continent": "Europe",
+            "hdi": 0.823
+        },
+        {
+            "country": "Belgium",
+            "continent": "Europe",
+            "hdi": 0.931
+        },
+        {
+            "country": "Belize",
+            "continent": "Central America",
+            "hdi": 0.716
+        },
+        {
+            "country": "Benin",
+            "continent": "Africa",
+            "hdi": 0.545
+        },
+        {
+            "country": "Bhutan",
+            "continent": "Asia",
+            "hdi": 0.654
+        },
+        {
+            "country": "Bolivia",
+            "continent": "South America",
+            "hdi": 0.718
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "continent": "Europe",
+            "hdi": 0.78
+        },
+        {
+            "country": "Botswana",
+            "continent": "Africa",
+            "hdi": 0.735
+        },
+        {
+            "country": "Brazil",
+            "continent": "South America",
+            "hdi": 0.765
+        },
+        {
+            "country": "Brunei Darussalam",
+            "continent": "Asia",
+            "hdi": 0.838
+        },
+        {
+            "country": "Bulgaria",
+            "continent": "Europe",
+            "hdi": 0.816
+        },
+        {
+            "country": "Burkina Faso",
+            "continent": "Africa",
+            "hdi": 0.452
+        },
+        {
+            "country": "Burundi",
+            "continent": "Africa",
+            "hdi": 0.433
+        },
+        {
+            "country": "Cabo Verde",
+            "continent": "Africa",
+            "hdi": 0.665
+        },
+        {
+            "country": "Cambodia",
+            "continent": "Asia",
+            "hdi": 0.594
+        },
+        {
+            "country": "Cameroon",
+            "continent": "Africa",
+            "hdi": 0.563
+        },
+        {
+            "country": "Canada",
+            "continent": "North America",
+            "hdi": 0.929
+        },
+        {
+            "country": "Central African Republic",
+            "continent": "Africa",
+            "hdi": 0.397
+        },
+        {
+            "country": "Chad",
+            "continent": "Africa",
+            "hdi": 0.398
+        },
+        {
+            "country": "Chile",
+            "continent": "South America",
+            "hdi": 0.851
+        },
+        {
+            "country": "China",
+            "continent": "Asia",
+            "hdi": 0.761
+        },
+        {
+            "country": "Colombia",
+            "continent": "South America",
+            "hdi": 0.767
+        },
+        {
+            "country": "Comoros",
+            "continent": "Africa",
+            "hdi": 0.554
+        },
+        {
+            "country": "Congo",
+            "continent": "Africa",
+            "hdi": 0.574
+        },
+        {
+            "country": "Congo (Democratic republic)",
+            "continent": "Africa",
+            "hdi": 0.48
+        },
+        {
+            "country": "Costa Rica",
+            "continent": "Central America",
+            "hdi": 0.81
+        },
+        {
+            "country": "C�te d'Ivoire",
+            "continent": "Africa",
+            "hdi": 0.538
+        },
+        {
+            "country": "Croatia",
+            "continent": "Europe",
+            "hdi": 0.851
+        },
+        {
+            "country": "Cuba",
+            "continent": "Central America",
+            "hdi": 0.783
+        },
+        {
+            "country": "Cyprus",
+            "continent": "Europe",
+            "hdi": 0.887
+        },
+        {
+            "country": "Czechia",
+            "continent": "Europe",
+            "hdi": 0.9
+        },
+        {
+            "country": "Denmark",
+            "continent": "Europe",
+            "hdi": 0.94
+        },
+        {
+            "country": "Djibouti",
+            "continent": "Africa",
+            "hdi": 0.524
+        },
+        {
+            "country": "Dominica",
+            "continent": "Central America",
+            "hdi": 0.742
+        },
+        {
+            "country": "Dominican Republic",
+            "continent": "Central America",
+            "hdi": 0.756
+        },
+        {
+            "country": "Ecuador",
+            "continent": "South America",
+            "hdi": 0.759
+        },
+        {
+            "country": "Egypt",
+            "continent": "Africa",
+            "hdi": 0.707
+        },
+        {
+            "country": "El Salvador",
+            "continent": "Central America",
+            "hdi": 0.673
+        },
+        {
+            "country": "Equatorial Quinea",
+            "continent": "Africa",
+            "hdi": 0.592
+        },
+        {
+            "country": "Eritrea",
+            "continent": "Africa",
+            "hdi": 0.459
+        },
+        {
+            "country": "Estonia",
+            "continent": "Europe",
+            "hdi": 0.892
+        },
+        {
+            "country": "Eswatini",
+            "continent": "Africa",
+            "hdi": 0.611
+        },
+        {
+            "country": "Ethiopia",
+            "continent": "Africa",
+            "hdi": 0.485
+        },
+        {
+            "country": "Fiji",
+            "continent": "Oceania",
+            "hdi": 0.743
+        },
+        {
+            "country": "Finland",
+            "continent": "Europe",
+            "hdi": 0.938
+        },
+        {
+            "country": "France",
+            "continent": "Europe",
+            "hdi": 0.901
+        },
+        {
+            "country": "Gabon",
+            "continent": "Africa",
+            "hdi": 0.703
+        },
+        {
+            "country": "Gambia",
+            "continent": "Asia",
+            "hdi": 0.496
+        },
+        {
+            "country": "Georgia",
+            "continent": "Europe",
+            "hdi": 0.812
+        },
+        {
+            "country": "Germany",
+            "continent": "Europe",
+            "hdi": 0.947
+        },
+        {
+            "country": "Ghana",
+            "continent": "Africa",
+            "hdi": 0.611
+        },
+        {
+            "country": "Greece",
+            "continent": "Europe",
+            "hdi": 0.888
+        },
+        {
+            "country": "Grenada",
+            "continent": "Central America",
+            "hdi": 0.779
+        },
+        {
+            "country": "Guatemala",
+            "continent": "Central America",
+            "hdi": 0.663
+        },
+        {
+            "country": "Guinea",
+            "continent": "Africa",
+            "hdi": 0.477
+        },
+        {
+            "country": "Guinea-Bissau",
+            "continent": "Africa",
+            "hdi": 0.48
+        },
+        {
+            "country": "Guyana",
+            "continent": "South America",
+            "hdi": 0.682
+        },
+        {
+            "country": "Haiti",
+            "continent": "Central America",
+            "hdi": 0.51
+        },
+        {
+            "country": "Honduras",
+            "continent": "Central America",
+            "hdi": 0.634
+        },
+        {
+            "country": "Hungary",
+            "continent": "Europe",
+            "hdi": 0.854
+        },
+        {
+            "country": "Iceland",
+            "continent": "Europe",
+            "hdi": 0.949
+        },
+        {
+            "country": "India",
+            "continent": "Asia",
+            "hdi": 0.645
+        },
+        {
+            "country": "Indonesia",
+            "continent": "Asia",
+            "hdi": 0.718
+        },
+        {
+            "country": "Iran",
+            "continent": "Asia",
+            "hdi": 0.783
+        },
+        {
+            "country": "Iraq",
+            "continent": "Asia",
+            "hdi": 0.674
+        },
+        {
+            "country": "Ireland",
+            "continent": "Europe",
+            "hdi": 0.955
+        },
+        {
+            "country": "Israel",
+            "continent": "Asia",
+            "hdi": 0.919
+        },
+        {
+            "country": "Italy",
+            "continent": "Europe",
+            "hdi": 0.892
+        },
+        {
+            "country": "Jamaica",
+            "continent": "Central America",
+            "hdi": 0.934
+        },
+        {
+            "country": "Japan",
+            "continent": "Asia",
+            "hdi": 0.919
+        },
+        {
+            "country": "Jordan",
+            "continent": "Asia",
+            "hdi": 0.729
+        },
+        {
+            "country": "Kazakhstan",
+            "continent": "Asia",
+            "hdi": 0.825
+        },
+        {
+            "country": "Kenya",
+            "continent": "Africa",
+            "hdi": 0.601
+        },
+        {
+            "country": "Kiribati",
+            "continent": "Oceania",
+            "hdi": 0.63
+        },
+        {
+            "country": "Republic of Korea",
+            "continent": "Asia",
+            "hdi": 0.916
+        },
+        {
+            "country": "Kuwait",
+            "continent": "Asia",
+            "hdi": 0.806
+        },
+        {
+            "country": "Kyrgyzstan",
+            "continent": "Asia",
+            "hdi": 0.697
+        },
+        {
+            "country": "Lao People's Democratic Republic",
+            "continent": "Asia",
+            "hdi": 0.613
+        },
+        {
+            "country": "Latvia",
+            "continent": "Europe",
+            "hdi": 0.866
+        },
+        {
+            "country": "Lebanon",
+            "continent": "Asia",
+            "hdi": 0.744
+        },
+        {
+            "country": "Lesotho",
+            "continent": "Africa",
+            "hdi": 0.527
+        },
+        {
+            "country": "Liberia",
+            "continent": "Africa",
+            "hdi": 0.48
+        },
+        {
+            "country": "Libya",
+            "continent": "Africa",
+            "hdi": 0.724
+        },
+        {
+            "country": "Liechtenstein",
+            "continent": "Europe",
+            "hdi": 0.919
+        },
+        {
+            "country": "Lithuania",
+            "continent": "Europe",
+            "hdi": 0.882
+        },
+        {
+            "country": "Luxembourg",
+            "continent": "Europe",
+            "hdi": 0.916
+        },
+        {
+            "country": "Madagascar",
+            "continent": "Africa",
+            "hdi": 0.528
+        },
+        {
+            "country": "Malawi",
+            "continent": "Africa",
+            "hdi": 0.483
+        },
+        {
+            "country": "Malaysia",
+            "continent": "Asia",
+            "hdi": 0.41
+        },
+        {
+            "country": "Maldives",
+            "continent": "Asia",
+            "hdi": 0.74
+        },
+        {
+            "country": "Mali",
+            "continent": "Africa",
+            "hdi": 0.434
+        },
+        {
+            "country": "Malta",
+            "continent": "Europe",
+            "hdi": 0.895
+        },
+        {
+            "country": "Marshall Islands",
+            "continent": "Oceania",
+            "hdi": 0.704
+        },
+        {
+            "country": "Mauritania",
+            "continent": "Africa",
+            "hdi": 0.546
+        },
+        {
+            "country": "Mauritius",
+            "continent": "Africa",
+            "hdi": 0.804
+        },
+        {
+            "country": "Mexico",
+            "continent": "Central America",
+            "hdi": 0.779
+        },
+        {
+            "country": "Federal States of Micronesia",
+            "continent": "Oceania",
+            "hdi": 0.62
+        },
+        {
+            "country": "Republic of Moldova",
+            "continent": "Europe",
+            "hdi": 0.75
+        },
+        {
+            "country": "Mongolia",
+            "continent": "Asia",
+            "hdi": 0.737
+        },
+        {
+            "country": "Montenegro",
+            "continent": "Europe",
+            "hdi": 0.829
+        },
+        {
+            "country": "Morocco",
+            "continent": "Africa",
+            "hdi": 0.686
+        },
+        {
+            "country": "Mozambique",
+            "continent": "Africa",
+            "hdi": 0.456
+        },
+        {
+            "country": "Myanmar",
+            "continent": "Africa",
+            "hdi": 0.583
+        },
+        {
+            "country": "Namibia",
+            "continent": "Africa",
+            "hdi": 0.646
+        },
+        {
+            "country": "Nepal",
+            "continent": "Asia",
+            "hdi": 0.602
+        },
+        {
+            "country": "Netherlands",
+            "continent": "Europe",
+            "hdi": 0.944
+        },
+        {
+            "country": "New Zealand",
+            "continent": "Oceania",
+            "hdi": 0.931
+        },
+        {
+            "country": "Nicaragua",
+            "continent": "Central America",
+            "hdi": 0.66
+        },
+        {
+            "country": "Niger",
+            "continent": "Africa",
+            "hdi": 0.394
+        },
+        {
+            "country": "Nigeria",
+            "continent": "Africa",
+            "hdi": 0.539
+        },
+        {
+            "country": "North Macedonia",
+            "continent": "Europe",
+            "hdi": 0.774
+        },
+        {
+            "country": "Norway",
+            "continent": "Europe",
+            "hdi": 0.957
+        },
+        {
+            "country": "Oman",
+            "continent": "Asia",
+            "hdi": 0.813
+        },
+        {
+            "country": "Pakistan",
+            "continent": "Asia",
+            "hdi": 0.557
+        },
+        {
+            "country": "Palau",
+            "continent": "Oceania",
+            "hdi": 0.826
+        },
+        {
+            "country": "Panama",
+            "continent": "Central America",
+            "hdi": 0.815
+        },
+        {
+            "country": "Papua New Guinea",
+            "continent": "Oceania",
+            "hdi": 0.555
+        },
+        {
+            "country": "Paraguay",
+            "continent": "South America",
+            "hdi": 0.728
+        },
+        {
+            "country": "Peru",
+            "continent": "South America",
+            "hdi": 0.777
+        },
+        {
+            "country": "Philippines",
+            "continent": "Asia",
+            "hdi": 0.718
+        },
+        {
+            "country": "Poland",
+            "continent": "Europe",
+            "hdi": 0.88
+        },
+        {
+            "country": "Portugal",
+            "continent": "Europe",
+            "hdi": 0.864
+        },
+        {
+            "country": "Qatar",
+            "continent": "Asia",
+            "hdi": 0.848
+        },
+        {
+            "country": "Romania",
+            "continent": "Europe",
+            "hdi": 0.828
+        },
+        {
+            "country": "Russian Federation",
+            "continent": "Europe",
+            "hdi": 0.824
+        },
+        {
+            "country": "Rwanda",
+            "continent": "Africa",
+            "hdi": 0.543
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "continent": "Central America",
+            "hdi": 0.779
+        },
+        {
+            "country": "Saint Lucia",
+            "continent": "North America",
+            "hdi": 0.759
+        },
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "continent": "North America",
+            "hdi": 0.738
+        },
+        {
+            "country": "Samoa",
+            "continent": "Oceania",
+            "hdi": 0.715
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "continent": "Africa",
+            "hdi": 0.625
+        },
+        {
+            "country": "Saudi Arabia",
+            "continent": "Asia",
+            "hdi": 0.854
+        },
+        {
+            "country": "Sengal",
+            "continent": "Africa",
+            "hdi": 0.512
+        },
+        {
+            "country": "Serbia",
+            "continent": "Europe",
+            "hdi": 0.806
+        },
+        {
+            "country": "Seychelles",
+            "continent": "Africa",
+            "hdi": 0.796
+        },
+        {
+            "country": "Sierra Leone",
+            "continent": "Africa",
+            "hdi": 0.452
+        },
+        {
+            "country": "Singapore",
+            "continent": "Asia",
+            "hdi": 0.938
+        },
+        {
+            "country": "Slovakia",
+            "continent": "Europe",
+            "hdi": 0.86
+        },
+        {
+            "country": "Slovenia",
+            "continent": "Europe",
+            "hdi": 0.917
+        },
+        {
+            "country": "Solomon Islands",
+            "continent": "Oceania",
+            "hdi": 0.567
+        },
+        {
+            "country": "South Africa",
+            "continent": "Africa",
+            "hdi": 0.709
+        },
+        {
+            "country": "South Sudan",
+            "continent": "Africa",
+            "hdi": 0.433
+        },
+        {
+            "country": "Spain",
+            "continent": "Europe",
+            "hdi": 0.904
+        },
+        {
+            "country": "Sri Lanka",
+            "continent": "Asia",
+            "hdi": 0.782
+        },
+        {
+            "country": "Sudan",
+            "continent": "Africa",
+            "hdi": 0.51
+        },
+        {
+            "country": "Suriname",
+            "continent": "South America",
+            "hdi": 0.738
+        },
+        {
+            "country": "Sweden",
+            "continent": "Europe",
+            "hdi": 0.945
+        },
+        {
+            "country": "Switzerland",
+            "continent": "Europe",
+            "hdi": 0.955
+        },
+        {
+            "country": "Syrian Arab Republic",
+            "continent": "Asia",
+            "hdi": 0.567
+        },
+        {
+            "country": "Tajikistan",
+            "continent": "Asia",
+            "hdi": 0.668
+        },
+        {
+            "country": "United Republic of Tanzania",
+            "continent": "Africa",
+            "hdi": 0.529
+        },
+        {
+            "country": "Thailand",
+            "continent": "Asia",
+            "hdi": 0.777
+        },
+        {
+            "country": "Timor Leste",
+            "continent": "Asia",
+            "hdi": 0.606
+        },
+        {
+            "country": "Togo",
+            "continent": "Africa",
+            "hdi": 0.515
+        },
+        {
+            "country": "Tonga",
+            "continent": "Oceania",
+            "hdi": 0.725
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "continent": "Central America",
+            "hdi": 0.796
+        },
+        {
+            "country": "Tunisia",
+            "continent": "Africa",
+            "hdi": 0.74
+        },
+        {
+            "country": "Turkey",
+            "continent": "Asia",
+            "hdi": 0.82
+        },
+        {
+            "country": "Turkmenistan",
+            "continent": "Asia",
+            "hdi": 0.715
+        },
+        {
+            "country": "Uganda",
+            "continent": "Africa",
+            "hdi": 0.544
+        },
+        {
+            "country": "Ukraine",
+            "continent": "Europe",
+            "hdi": 0.779
+        },
+        {
+            "country": "United Arab Emirates",
+            "continent": "Asia",
+            "hdi": 0.89
+        },
+        {
+            "country": "United Kingdom",
+            "continent": "Europe",
+            "hdi": 0.932
+        },
+        {
+            "country": "Uruguay",
+            "continent": "South America",
+            "hdi": 0.926
+        },
+        {
+            "country": "Uzbekistan",
+            "continent": "Asia",
+            "hdi": 0.72
+        },
+        {
+            "country": "Vanuatu",
+            "continent": "Oceania",
+            "hdi": 0.609
+        },
+        {
+            "country": "Bolivarian Republic of Venezuela",
+            "continent": "South America",
+            "hdi": 0.711
+        },
+        {
+            "country": "Viet Nam",
+            "continent": "Asia",
+            "hdi": 0.704
+        },
+        {
+            "country": "Yemen",
+            "continent": "Asia",
+            "hdi": 0.47
+        },
+        {
+            "country": "Zambia",
+            "continent": "Africa",
+            "hdi": 0.584
+        },
+        {
+            "country": "Zimbabwe",
+            "continent": "Africa",
+            "hdi": 0.571
+        }
+    ]
+}
