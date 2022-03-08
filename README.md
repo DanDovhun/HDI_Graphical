@@ -16,7 +16,12 @@ Binaries for Windows and Linux (Debian) are located in the *Bin* folder.
 ### DanDovhun/Statistics (Statistics Library)
 - After installing GoLang open terminal and type in > go get github.com/DanDovhun/Statistics
 
-## Build 
-- Clone this project to your computer 
--- > git clone https://github.com/DanDovhun/HDI_Graphical
-- Move 
+## Install
+```
+cd Documents
+git clone https://github.com/DanDovhun/HDI_Graphical
+cd HDI_Graphical
+```
+
+## Build
+> go build
