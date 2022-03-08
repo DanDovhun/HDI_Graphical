@@ -18,5 +18,5 @@ Binaries for Windows and Linux (Debian) are located in the *Bin* folder.
 
 ## Build 
 - Clone this project to your computer 
-- - > git clone https://github.com/DanDovhun/HDI_Graphical
+-- > git clone https://github.com/DanDovhun/HDI_Graphical
 - Move 
